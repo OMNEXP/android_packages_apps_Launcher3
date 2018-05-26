@@ -334,6 +334,8 @@
     <string name="summary_app_suggestions">At the top of your All Apps list</string>
     <string name="about_app_version">Version</string>
     <string name="app_releases_url">https://github.com/amirzaidi/launcher3/releases</string>
+	<string name="mod_experience">Omni Experience mod</string>
+	<string name="app_repoexp_url">https://github.com/OmniExperience/android_packages_apps_Launcher3</string>
     <string name="app_name_pixel_launcher">Pixel Launcher</string>
     <string name="title_disable_suggestions_prompt">Turn off app suggestions?</string>
     <string name="msg_disable_suggestions_prompt">"Suggestions won't appear at the top of your apps list, and the usage data used to create them will be permanently erased."</string>
